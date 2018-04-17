@@ -1,0 +1,35 @@
+{
+	"name": "vscode-styled-components-snippets",
+	"displayName": "vscode-styled-components-snippets",
+	"description": "This extension contains code snippets and some triggers for JS Styled-Components.",
+	"icon": "images/styled-components.png",
+	"version": "1.0.2",
+	"publisher": "lXSPandora",
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lXSPandora/vscode-styled-components-snippets.git"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "fecfc9e6-c3c3-40c4-bfc2-30f0b0731cd1",
+		"publisherId": "c7702547-7505-4452-b986-30776c25a1e9",
+		"publisherDisplayName": "Luiz Fernando Sousa Camargo"
+	}
+}
