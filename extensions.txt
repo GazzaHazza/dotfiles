@@ -1,5 +1,7 @@
+CoenraadS.bracket-pair-colorizer
 EditorConfig.EditorConfig
 PeterJausovec.vscode-docker
+SirTori.indenticator
 Tyriar.sort-lines
 Zignd.html-css-class-completion
 akamud.vscode-theme-onedark
@@ -13,6 +15,8 @@ discountry.react-redux-react-router-snippets
 dracula-theme.theme-dracula
 dzannotti.vscode-babel-coloring
 eamodio.gitlens
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
 hoovercj.vscode-dimmer
 jakob101.RelativePath
 kevinkyang.auto-comment-blocks
@@ -20,11 +24,13 @@ lXSPandora.vscode-styled-components-snippets
 leizongmin.node-module-intellisense
 mrmlnc.vscode-scss
 ms-vscode.atom-keybindings
+oderwat.indent-rainbow
 pawelgrzybek.bimbo-theme
 robertohuertasm.vscode-icons
 timothymclane.react-redux-es6-snippets
 waderyan.gitblame
 whatwedo.twig
 whizkydee.material-palenight-theme
+wix.vscode-import-cost
 wmaurer.change-case
 yzhang.markdown-all-in-one
