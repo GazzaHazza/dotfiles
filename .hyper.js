@@ -1,10 +1,11 @@
 module.exports = {
   config: {
     fontSize: 13,
-    fontFamily: '"Fira Mono for Powerline", "Roboto Mono for Powerline" , monospace',
+    fontFamily: 'Fira Mono for Powerline',
+    fontWeight: 'normal',
     hypercwd: {
       initialWorkingDirectory: '~/Dev'
-    }
+    },
   },
   
   plugins: [
