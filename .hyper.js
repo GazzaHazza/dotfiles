@@ -8,12 +8,14 @@ module.exports = {
   },
   
   plugins: [
+    'hyper-statusline',
     'hyper-blink',
     'hyperterm-cursor',
     'hypercwd',
     'hyperterm-paste',
     'hyperterm-dibdabs',
-    'hyperterm-tabs',
-    'hypermaterial-vibrancy'
+    'hyper-chesterish',
+    'hyper-tabs-enhanced',
+    'hyper-dark-scrollbar'
   ]
 };
