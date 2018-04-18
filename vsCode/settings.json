@@ -1,9 +1,10 @@
 // Place your settings in this file to overwrite the default settings
 // eslint-ignore
 {
+    "npm-intellisense.importES6": true,
     "editor.fontFamily": "FiraCode-Light, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Palenight Theme",
+    "workbench.colorTheme": "Palenight Italic",
     "files.autoSave": "onFocusChange",
     "editor.renderWhitespace": "all",
     "editor.fontSize": 12,
