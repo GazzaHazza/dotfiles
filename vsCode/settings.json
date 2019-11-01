@@ -1,53 +1,64 @@
 // Place your settings in this file to overwrite the default settings
 // eslint-ignore
 {
-    "breadcrumbs.enabled": true,
-    "npm-intellisense.importES6": true,
-    "editor.fontLigatures": true,
-    "workbench.colorTheme": "Palenight Operator",
-    "files.autoSave": "onFocusChange",
-    "editor.fontSize": 14,
-    "editor.tabSize": 2,
-    "editor.wordWrap": "off",
-    "editor.snippetSuggestions": "top",
-    "javascript.validate.enable": false,
-    "git.enabled": true,
-    "window.zoomLevel": 0,
-    "editor.scrollBeyondLastLine": false,
-    "bracketPairColorizer.forceIterationColorCycle": true,
-    "eslint.packageManager": "yarn",
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/release": true,
-        "**/.git/objects/**": true,
-        "**/.git/subtree-cache/**": true,
-        "**/node_modules/**": false,
-    },
-    "flow.useNPMPackagedFlow": true,
-    "javascript.format.enable": false,
-    "search.exclude": {
-        "**/bower_components": false,
-        "**/node_modules": false
-    },
-    "editor.multiCursorModifier": "ctrlCmd",
-    "files.associations": {
-        "*.jsx": "javascriptreact",
-        "*.js": "javascript"
-    },
-    "typescript.check.npmIsInstalled": false,
-    "explorer.confirmDragAndDrop": false,
-    "atomKeymap.promptV3Features": true,
-    "editor.accessibilitySupport": "off",
-    "editor.cursorStyle": "block",
-    "diffEditor.ignoreTrimWhitespace": true,
-    "editor.fontFamily": "\"Dank Mono\", \"Fira Code\" ,Menlo, Monaco, 'Courier New', monospace",
-    "editor.tabCompletion": "on",
-    "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "eslint.autoFixOnSave": true,
-    "workbench.sideBar.location": "right"
+  "breadcrumbs.enabled": true,
+  "npm-intellisense.importES6": true,
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Night Owl",
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "workbench.fontAliasing": "default",
+  "editor.wordWrap": "off",
+  "editor.snippetSuggestions": "top",
+  "javascript.validate.enable": false,
+  "git.enabled": true,
+  "window.zoomLevel": 1,
+  "editor.scrollBeyondLastLine": false,
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "eslint.packageManager": "yarn",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/release": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": false
+  },
+  "flow.useNPMPackagedFlow": true,
+  "javascript.format.enable": false,
+  "search.exclude": {
+    "**/bower_components": false,
+    "**/node_modules": false
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.js": "javascript"
+  },
+  "typescript.check.npmIsInstalled": false,
+  "explorer.confirmDragAndDrop": false,
+  "atomKeymap.promptV3Features": true,
+  "editor.accessibilitySupport": "off",
+  "editor.cursorStyle": "block",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.fontFamily": "Dank Mono",
+  "editor.tabCompletion": "on",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "eslint.autoFixOnSave": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.advanced.messages": {
+    "suppressCommitNotFoundWarning": true
+  },
+  "editor.formatOnSave": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false
 }
